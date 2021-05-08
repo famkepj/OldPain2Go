@@ -1,0 +1,54 @@
+body {
+  color: antraciet;
+  padding:50px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif
+}
+
+.titel{
+  color:#3e5cac;
+  text-align: center
+}
+
+.grey_background {
+  background-color: lightgrey;
+}
+#blue-background {
+  background-color:#3e5cac;
+  color: cornsilk;
+}
+.green {
+  color:#89a64f;
+}
+
+.button {
+  background-color: #89a64f;
+  color: cornsilk padding 20px;
+  text-align: center;
+  border: 2px solid #5d6063;
+  width: 200px;
+  margin: 20px auto;
+  font-size: 18px;
+}
+
+.button2 {
+  background-color: lightskyblue;
+  color: cornsilk padding 20px;
+  text-align: center;
+  border: 2px solid #5d6063;
+  width: 500px;
+  margin: 20px auto;
+  font-weight: bold;
+  font-size: 19px;
+}
+
+footer {
+  padding: 10px;
+  text-align: center;
+  border-style: dashed;
+}
+
+figure{
+	border: 1px solid #999;
+	background-color: #fcfcfc;
+	padding: 4px;}
+
